@@ -1,3 +1,4 @@
+https://colab.research.google.com/drive/1QjXvatwXY-zyEi300JYHPgVKZ26f068g#scrollTo=fPlX26rxFCjJ
 
 # LangChain and Streamlit RAG
 
